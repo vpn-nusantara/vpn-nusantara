@@ -18,9 +18,6 @@
 
 ## 🌈 01. TENTANG SAYA
 
-\`\`\`bash
-┌──(VPN-NUSANTARA㉿github)-[~]
-└─$ whoami
 
 Nama       : VPN-NUSANTARA
 Profesi    : Pengembang Teknologi
